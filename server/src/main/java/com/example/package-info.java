@@ -1,5 +1,4 @@
-package com.example;
 /**
- * this is a packaage name
+ * This is a packaage name.
  */
-
+package com.example;
