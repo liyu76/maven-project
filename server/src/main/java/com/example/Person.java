@@ -13,7 +13,7 @@ public class Person {
   }
 
   /**
-    * @param someone是人名
+    * @param someone is name
     * @return String
     */
   public final String person(final String someone) {
